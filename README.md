@@ -30,7 +30,7 @@ NoteTaker is a Java web application designed to help users take, manage, and org
 
 ### **Installation**
 
-1. Clone the repository: git clone https://github.com/your-username/NoteTaker.git
+1. Clone the repository: git clone https://github.com/sk116/NoteTaker.git
 2. Import the project into your preferred IDE.
 3. Configure the database connection in the Hibernate configuration.
 4. Deploy the application to your servlet container.
